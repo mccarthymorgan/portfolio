@@ -12,7 +12,9 @@ I am taking this course so I can learn more about creating better data visualiza
 
 Below is a sample of my work, completed for the Telling Stories with Data class at Carnegie Mellon University.
 
-### Visualizing Government Debt
+### Assignment 2
+
+[Visualizing Government Debt](/dataviz2.md)
 
 ### Critique by Design
 
