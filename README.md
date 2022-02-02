@@ -16,6 +16,10 @@ Below is a sample of my work, completed for the Telling Stories with Data class 
 
 [Visualizing Government Debt](/dataviz2.md)
 
+### Tableau Visualization
+
+[Test](/dataviz2.html)
+
 ### Critique by Design
 
 ### Final Project, Part 1
