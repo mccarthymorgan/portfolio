@@ -18,7 +18,7 @@ Below is a sample of my work, completed for the Telling Stories with Data class 
 
 ### Tableau Visualization
 
-[Test](/dataviz2.html)
+[Test](/tabtest.html)
 
 ### Critique by Design
 
