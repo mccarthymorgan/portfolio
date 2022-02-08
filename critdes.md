@@ -2,7 +2,12 @@
 
 # Finding a Graph
 
-For my Critique by Design Assignment I redesigned the graph titled "Productivity Puzzle" in the Wall Street Journal article ["Is a Four-Day Week the Future of Work?"](https://www.wsj.com/articles/is-a-four-day-week-the-future-of-work-11627704011). I selected this graph because I thought the information contained in the graph was extremely interesting, but did not support the article as well as it could have. I also wanted to try to improve a graph that was relatively well done, since we had criquited obviously flawed graphs before. 
+For my Critique by Design Assignment I redesigned the graph titled "Productivity Puzzle" in the Wall Street Journal article ["Is a Four-Day Week the Future of Work?"](https://www.wsj.com/articles/is-a-four-day-week-the-future-of-work-11627704011), shown below. 
+
+<img width="429" alt="Assignment 3 - Original Graph" src="https://user-images.githubusercontent.com/76798733/152894124-0b05dd30-9b68-43d3-bcb8-a02e2897cc7c.PNG">
+
+
+I selected this graph because I thought the information contained in the graph was extremely interesting, but did not support the article as well as it could have. I also wanted to try to improve a graph that was relatively well done, since we had criquited obviously flawed graphs before. 
 
 The data from the graph comes from the Organization for Economic Cooperation and Development. It utilizes two measurements, the [Average Annual Hours Worked](https://data.oecd.org/emp/hours-worked.htm) and the [GDP Per Hour Worked](https://data.oecd.org/lprdty/gdp-per-hour-worked.htm). The original visualization compares the United States to fifteen other countries, although the data sets contain additional countries not shown in the graph. 
 
