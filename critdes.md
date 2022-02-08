@@ -16,7 +16,7 @@ I think there are several things, however, that the visualization does well that
 
 For my wireframe mockups, I tried flipping the x- and y-axis placement, added of lines to designate the hours worked for the 4- and 5-day work week, and tried techniques used to reduce business in the graph (removing all labels besides the United States, only coloring the United States line, and increasing the size). These wireframes are shown below. 
 
-PLACEHOLDER
+![1](https://user-images.githubusercontent.com/76798733/152893793-94bfcef3-c09b-4eeb-8857-ade3304163e7.jpg)
 
 # Testing the Solution
 
