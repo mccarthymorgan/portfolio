@@ -13,7 +13,9 @@ The story will be structured as follows:
 - Systemic solutions to improve health in Pittsburgh (water filters, improving home testing kits for renters).
 
 # Sketches
-  
+
+![IMG_7235](https://user-images.githubusercontent.com/76798733/153802827-0d75e970-450e-4832-9078-e4101dc45f01.jpg)
+
                          
 # Data
 
