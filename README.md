@@ -26,5 +26,7 @@ Below is a sample of my work, completed for the Telling Stories with Data class 
 
 ### Final Project, Part 2
 
+[Final Project: Part 2](/final2.md)
+
 ### Final Project, Part 3
 
