@@ -28,6 +28,7 @@ The reader would scroll from left to right on the timeline and the following wou
 
 Proposed Visual: 
 
+
 ![IMG_7276](https://user-images.githubusercontent.com/76798733/155192629-4f95d3ad-0475-401d-a751-151a39170973.jpg)
 
 
@@ -107,4 +108,4 @@ Based on my user research, I need to incorporate the PWSA map in my final story 
 
 I also was suprised that all interviewees found the different neighborhood visualization to be unimportant to the main story. Going forward, I will need to consider if I want to leave that section in or remove it entirely. Based on feedback from the second and third interviewee, I could replace the neighborhood deep dive with more city-wide financial data. How much has Pittsburgh spent to date on the lead testing kits and filters, what it would cost to provide each household a filter, where would the money come from?
 
-Overall, I found the feedback helpful and I intend to reach back out when my wireframes become full visualizations to get the interviewees feedback on what else they would like to see, and if they still found it compelling. I think it will be espically important for me to get feedback on the budget section, since I had not previously considered the 
+Overall, I found the feedback helpful and I intend to reach back out when my wireframes become full visualizations to get the interviewees feedback on what else they would like to see, and if they still found it compelling. I think it will be espically important for me to get feedback on the budget section, since I had not previously considered. 
