@@ -11,6 +11,7 @@ My project storyboard, broken into proposed sections is below. The wireframed vi
 [Main Source for Key Timeline Events](https://www.publicsource.org/timeline-the-evolution-of-lead-contamination-in-pittsburghs-water/)
 
 Proposed Visual:
+![IMG_7275](https://user-images.githubusercontent.com/76798733/155192616-14c341e0-bfb2-4457-9357-3f180aa0d227.jpg)
 
 
 
@@ -27,6 +28,7 @@ The reader would scroll from left to right on the timeline and the following wou
 
 Proposed Visual: 
 
+![IMG_7276](https://user-images.githubusercontent.com/76798733/155192629-4f95d3ad-0475-401d-a751-151a39170973.jpg)
 
 
 Any level of lead in waterlines is bad for heatlh, espically in small doses over a long period of time. The current federal maximum lead level of 15ppb was established in the 1980s based on feedback from utility companies about what they could realistically accomplish. The maximum lead level is not based on public health findings. ANY amount of lead in water is bad for health. Pittsburgh being below the threshhold, does not indicate better public health. Pittsburgh should shoot for 0ppb, not less than 15ppb.
@@ -39,6 +41,7 @@ Pittsburgh's [current solutions](https://lead.pgh2o.com/resources/request-a-lead
 
 Proposed Visualization: 
 
+![IMG_7277](https://user-images.githubusercontent.com/76798733/155192633-107e4595-6052-42f2-b647-828fb626f372.jpg)
 
 
 A bar graph showing the five most affected areas that would allow users to click through the following buttons: Percent of Children Affected, Average Income, Rental Mix. Each graph is presented seperately here, but in the visualization they could click to change the graph to allow for ease of comparison. 
