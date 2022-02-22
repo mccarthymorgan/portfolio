@@ -10,8 +10,6 @@ My project storyboard, broken into proposed sections is below. The wireframed vi
 
 ## How to Improve
 
-
-
 # User Research
 
 To determine if my story and data visualizations were compelling, I conducted user reasearch on my storyboard and wireframe. 
@@ -26,12 +24,43 @@ While not part of my target audience, I do think my story would more broadly app
 
 My approach to identifying individuals to interview was to capture perspectives both inside and outside of Pittsburgh, while still maintaining connection to the region. I felt that public policy students at Heinz, while extremely engaged and invested in the city, might know more than the average CMU student when it came to infrastructure issues in the city. Additionally, I wanted to select people who were media and technology literate, but not necessarily data visualization experts to verify that my visuals were easily understandable. That eliminated many of my peers at Heinz.
 
-
-## First Interviewee
+### First Interviewee
 For that reason, I elected to interview one CMU student in his mid-20s, who has lived here for three years but is not aware of the local government's approach to fixing lead in the waterlines. He will continue to live here for at least another two years, so he is invested in the region and its infrastructure. 
 
-## Second Interviewee
+### Second Interviewee
 I also wanted a perspective from a younger person in her early 20s who was considering moving to Pittsburgh within two years, so they had a connection to the region. Feedback I received from my peers in class indicated that a good audience for my story would be young people moving to the region who were unaware of lead problems. Her feedback is intended to capture this group. 
 
-## Third Interviewee
+### Third Interviewee
 Finally, I sought feedback from a woman in her 50s who has family living in the region but does not have plans to ever live in Pittsburgh. Her perspective is important because it will allow me to see if the visualization can appeal to readers beyond my target audience. Additionally, in comparison to my previous two interviewees she has more right-leaning political views, so she may not support some of my more costly suggestions. 
+
+## Interview Script
+
+Do you feel concerned about the presence of lead in Pittsburgh water lines? How has your perspective change?
+
+What do you still wish you knew about lead in Pittsburgh water lines? 
+
+Did you think the story flowed nicely? (Pun intended)
+
+Do you think the currrent efforts by Pittsburgh are sufficent to address lead in the water lines? Could they be doing more? Should they be doing less?
+
+What do you think someone in Pittsburgh would want to do after reading this story? (Call to Action)
+
+## Findings
+
+### Man, Mid 20's, Pittsburgh Resident, CMU Student, Not Politically Active, Lives in Rental Housing
+
+
+
+### Woman, Early 20's, Potential Future Pittsburgh Resident, Liberal, Lives in Rental Housing
+
+
+
+### Woman, Mid 50's, Family in Pittsburgh, Conservative, Owns House
+
+
+
+
+## Planned Changes
+
+Based on my user research, my next steps are to
+
