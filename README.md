@@ -29,4 +29,8 @@ Below is a sample of my work, completed for the Telling Stories with Data class 
 [Final Project: Part 2](/final2.md)
 
 ### Final Project, Part 3
+[Final Project: Part 3 Write Up](/final3.md)
+[Lead Levels in Pittsburgh's Water](https://carnegiemellon.shorthandstories.com/lead-levels-in-pittsburgh-s-water/index.html)
+
+
 
